@@ -1,0 +1,5 @@
+This project is for Sentiment Analysis in HealthCare
+
+Download the dataset from ​ https://www.yelp.com/dataset_challenge and place the json files in dataset folder
+
+Then run the code using ./run.sh
